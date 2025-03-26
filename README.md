@@ -2,7 +2,7 @@
 
 **SongSift** is a desktop application built with Python's Tkinter library and the Spotify API. It allows users to search for songs and get recommendations based on their input, displaying results in a sleek graphical user interface. The application features a modern design and provides a seamless way to explore new music.
 
-This is very cool app
+This is a very cool app!
 
 
 ## Features
